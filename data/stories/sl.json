@@ -1,0 +1,402 @@
+[
+  {
+    "id": 0,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila med snemanjem reklame."
+  },
+  {
+    "id": 1,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila med parlamentarnim zasedanjem."
+  },
+  {
+    "id": 2,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila med radijskim intervjujem."
+  },
+  {
+    "id": 3,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila na tekaški tekmi."
+  },
+  {
+    "id": 4,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila na tekmi v teku na smučeh."
+  },
+  {
+    "id": 5,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila na dobrodelni prireditvi."
+  },
+  {
+    "id": 6,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila na demonstracijah."
+  },
+  {
+    "id": 7,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila na gledališki vaji."
+  },
+  {
+    "id": 8,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila na ekskurziji v elektrarno."
+  },
+  {
+    "id": 9,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila v župnišču."
+  },
+  {
+    "id": 10,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila na kmečki tržnici."
+  },
+  {
+    "id": 11,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila na festivalu dokumentarnega filma."
+  },
+  {
+    "id": 12,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila na festivalu ljudske glasbe."
+  },
+  {
+    "id": 13,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila na alpinistični odpravi."
+  },
+  {
+    "id": 14,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila na tečaju prve pomoči."
+  },
+  {
+    "id": 15,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila na plezalni steni."
+  },
+  {
+    "id": 16,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila na maturantskem plesu."
+  },
+  {
+    "id": 17,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila na mestnem uradu."
+  },
+  {
+    "id": 18,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila na občinskem svetu."
+  },
+  {
+    "id": 19,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila na oddelku za kibernetsko varnost."
+  },
+  {
+    "id": 20,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila na urgenci."
+  },
+  {
+    "id": 21,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila v operacijski sobi."
+  },
+  {
+    "id": 22,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila na spominski slovesnosti."
+  },
+  {
+    "id": 23,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila na policijski postaji."
+  },
+  {
+    "id": 24,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila na romanju v majhnem mestu."
+  },
+  {
+    "id": 25,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila na projekciji študentskih filmov."
+  },
+  {
+    "id": 26,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila na sestanku najvišjega vodstva."
+  },
+  {
+    "id": 27,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila na gradbišču."
+  },
+  {
+    "id": 28,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila na poroki."
+  },
+  {
+    "id": 29,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila na mladinskem taboru."
+  },
+  {
+    "id": 30,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila na plesnem treningu."
+  },
+  {
+    "id": 31,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila na treningu nogometne ekipe."
+  },
+  {
+    "id": 32,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila na tržnici v središču mesta."
+  },
+  {
+    "id": 33,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila na univerzitetnem predavanju."
+  },
+  {
+    "id": 34,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila na znanstveni konferenci."
+  },
+  {
+    "id": 35,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila na otvoritvi razstave."
+  },
+  {
+    "id": 36,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila na umetniški delavnici."
+  },
+  {
+    "id": 37,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila v osnovni šoli."
+  },
+  {
+    "id": 38,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila na seji akademskega senata."
+  },
+  {
+    "id": 39,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila med poskusom z umetno inteligenco."
+  },
+  {
+    "id": 40,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila med snemanjem dokumentarnega filma."
+  },
+  {
+    "id": 41,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila med pripravami na koncert."
+  },
+  {
+    "id": 42,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila med prenovo stare hiše."
+  },
+  {
+    "id": 43,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila na šahovskem turnirju."
+  },
+  {
+    "id": 44,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila na slovesnosti."
+  },
+  {
+    "id": 45,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila na sodni obravnavi."
+  },
+  {
+    "id": 46,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila med javno razpravo."
+  },
+  {
+    "id": 47,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila pri poučevanju tujega jezika."
+  },
+  {
+    "id": 48,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila pri vodnem stolpu."
+  },
+  {
+    "id": 49,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila v avtomehanični delavnici."
+  },
+  {
+    "id": 50,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila v azilnem domu."
+  },
+  {
+    "id": 51,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila v poslovalnici banke."
+  },
+  {
+    "id": 52,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila v baru med karaokami."
+  },
+  {
+    "id": 53,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila v klicnem centru."
+  },
+  {
+    "id": 54,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila v čakalnici v pisarni."
+  },
+  {
+    "id": 55,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila v večgeneracijskem gospodinjstvu."
+  },
+  {
+    "id": 56,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila v ekološkem centru."
+  },
+  {
+    "id": 57,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila v gasilski postaji."
+  },
+  {
+    "id": 58,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila na recepciji hotela."
+  },
+  {
+    "id": 59,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila v glasbenem klubu."
+  },
+  {
+    "id": 60,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila v jezikovni šoli."
+  },
+  {
+    "id": 61,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila v frizerskem salonu."
+  },
+  {
+    "id": 62,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila na samostanskem vrtu."
+  },
+  {
+    "id": 63,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila v knjižnici."
+  },
+  {
+    "id": 64,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila v skupni kuhinji."
+  },
+  {
+    "id": 65,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila v skupnostnem centru."
+  },
+  {
+    "id": 66,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila v cerkvi."
+  },
+  {
+    "id": 67,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila v kuhinji luksuzne restavracije."
+  },
+  {
+    "id": 68,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila v kulturnem centru."
+  },
+  {
+    "id": 69,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila v lokalnem športnem klubu."
+  },
+  {
+    "id": 70,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila v popravnem domu."
+  },
+  {
+    "id": 71,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila v bolnišnici."
+  },
+  {
+    "id": 72,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila v observatoriju."
+  },
+  {
+    "id": 73,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila v skavtskem vodu."
+  },
+  {
+    "id": 74,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila v ordinaciji splošnega zdravnika."
+  },
+  {
+    "id": 75,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila v zboru."
+  },
+  {
+    "id": 76,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila v nepremičninski agenciji."
+  },
+  {
+    "id": 77,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila v uredništvu časopisa."
+  },
+  {
+    "id": 78,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila v sodni dvorani."
+  },
+  {
+    "id": 79,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila v tehničnem muzeju."
+  },
+  {
+    "id": 80,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila v televizijskem tekmovanju."
+  },
+  {
+    "id": 81,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila v ekipi za sinhronizirano plavanje."
+  },
+  {
+    "id": 82,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila v učilnici računalništva."
+  },
+  {
+    "id": 83,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila v učiteljskem zboru."
+  },
+  {
+    "id": 84,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila v zavetišču za živali."
+  },
+  {
+    "id": 85,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila v zakulisju modne revije."
+  },
+  {
+    "id": 86,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila v filmskem studiu."
+  },
+  {
+    "id": 87,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila v fitnes centru."
+  },
+  {
+    "id": 88,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila v vrtcu."
+  },
+  {
+    "id": 89,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila v šolski jedilnici."
+  },
+  {
+    "id": 90,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila v šotoru gorske reševalne službe."
+  },
+  {
+    "id": 91,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila v študentskem domu."
+  },
+  {
+    "id": 92,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila v kupeju vlaka."
+  },
+  {
+    "id": 93,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila na vlaku med jutranjo prometno konico."
+  },
+  {
+    "id": 94,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila v vojaški enoti."
+  },
+  {
+    "id": 95,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila na volišču."
+  },
+  {
+    "id": 96,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila v volilnem štabu."
+  },
+  {
+    "id": 97,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila v dvigalu."
+  },
+  {
+    "id": 98,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila v razvojnem oddelku podjetja."
+  },
+  {
+    "id": 99,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila v raziskovalnem laboratoriju."
+  }
+]

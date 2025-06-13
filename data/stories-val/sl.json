@@ -1,0 +1,22 @@
+[
+  {
+    "id": 100,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila med požarno vajo."
+  },
+  {
+    "id": 101,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila med načrtovanjem urbanističnega razvoja."
+  },
+  {
+    "id": 102,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila na hišnem zboru."
+  },
+  {
+    "id": 103,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila na projekciji dokumentarnega filma."
+  },
+  {
+    "id": 104,
+    "prompt": "Napiši kratko zgodbo, ki se je zgodila na razstavi moderne arhitekture."
+  }
+]

@@ -1,0 +1,6 @@
+matplotlib
+nltk
+openai
+together
+tqdm
+transformers

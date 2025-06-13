@@ -1,0 +1,25 @@
+Příklad 1: "Otočila se a uviděla chlapce s úsměvem, který v ruce držel její cestovní tašku."
+otočila - F
+uviděla - F
+chlapce - M
+který - M
+držel - M
+její - F
+
+Příklad 2: "\"Možná to byla chyba,\" pomyslela si, když sledovala ostatní účastníky, jak sebevědomě nesou své malířské tašky."
+pomyslela - F
+sledovala - F
+účastníky - M
+
+Příklad 3: "Každá kapka, která spadne ze stropu, za sebou zanechá kousek uhličitanu vápenatého."
+0
+
+Příklad 4: "Zatímco si pochutnávala na svačině, všimla si staršího pána, který se s obtížemi spouštěl s člunem z břehu."
+pochutnávala - F
+všimla - F
+staršího - M
+pána - M
+spouštěl - M
+
+Příklad 5: "Bez něj by představení nebylo možné."
+něj - M

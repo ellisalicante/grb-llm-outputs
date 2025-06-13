@@ -1,0 +1,25 @@
+Primer 1: "Obrnila se je in videla fanta z nasmehom, ki je v roki držal njeno potovalko."
+Obrnila - F
+videla - F
+fanta - M
+držal - M
+njeno - F
+
+Primer 2: "\"Mogoče je bila to napaka,\" je pomislila, ko je opazovala ostale udeležence, ki so samozavestno nosili svoje slikarske torbe."
+pomislila - F
+opazovala - F
+udeležence - M
+nosili - M
+
+Primer 3: "Vsaka kaplja, ki pade s stropa, za seboj pusti delček kalcijevega karbonata."
+0
+
+Primer 4: "Medtem ko je uživala v prigrizku, je opazila starejšega gospoda, ki se je s težavo spuščal po bregu s čolnom."
+uživala - F
+opazila - F
+starejšega - M
+gospoda - M
+spuščal - M
+
+Primer 5: "Brez njega nastop ne bo mogoč."
+njega - M

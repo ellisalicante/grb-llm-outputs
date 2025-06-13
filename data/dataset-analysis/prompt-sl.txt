@@ -1,0 +1,5 @@
+<EXAMPLES>
+
+Besedilo: "<SENTENCE>"
+
+Navodila: Prepoznaj v besedilu vse besede, ki označujejo osebe in izražajo spol - torej samostalnike, pridevnike, zaimke, števnike in glagole. Za vsako besedo navedi slovnični spol: moški (M) ali ženski (F). Izpusti izraze srednjega spola in splošne izraze, kot sta "oseba" ali "človek", ki pomensko ne sporočajo spola. Priimkov ne vključuj. Besede, ki se ne nanašajo na osebe prezri. Če v besedilu ni nobene besede, ki označuje osebo, kot odgovor napiši samo "0". Uporabi obliko kot v zgornjih primerih in ne dodajaj dodatnega besedila.

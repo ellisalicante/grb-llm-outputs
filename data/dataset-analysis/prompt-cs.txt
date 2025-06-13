@@ -1,0 +1,5 @@
+<EXAMPLES>
+
+Text: "<SENTENCE>"
+
+Instrukce: V zadaném textu identifikuj všechna slova, která se vztahují k osobám a nesou informaci o rodu - tedy podstatná jména, přídavná jména, zájmena, číslovky a slovesa. U každého z nich urči gramatický rod: mužský (M) nebo ženský (F). Vynech výrazy středního rodu a obecné výrazy jako "osoba" nebo "člověk", ze kterých sémanticky nevyplývá pohlaví. Příjmení také vynech. Slova nevztahující se k osobám ignoruj. Pokud v textu žádná slova označující osoby nejsou, do odpovědi uveď pouze "0". Své odpovědi piš ve formátu jako v příkladech výše, bez dalšího textu.

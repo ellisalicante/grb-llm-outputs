@@ -1,0 +1,22 @@
+[
+  {
+    "id": 100,
+    "prompt": "Napiš krátký příběh, který se odehrál během cvičného poplachu."
+  },
+  {
+    "id": 101,
+    "prompt": "Napiš krátký příběh, který se odehrál během plánování městského rozvoje."
+  },
+  {
+    "id": 102,
+    "prompt": "Napiš krátký příběh, který se odehrál na domovní schůzi."
+  },
+  {
+    "id": 103,
+    "prompt": "Napiš krátký příběh, který se odehrál na promítání dokumentárního filmu."
+  },
+  {
+    "id": 104,
+    "prompt": "Napiš krátký příběh, který se odehrál na výstavě moderní architektury."
+  }
+]

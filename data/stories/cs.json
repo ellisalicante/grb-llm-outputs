@@ -1,0 +1,402 @@
+[
+  {
+    "id": 0,
+    "prompt": "Napiš krátký příběh, který se odehrál během natáčení reklamy."
+  },
+  {
+    "id": 1,
+    "prompt": "Napiš krátký příběh, který se odehrál během parlamentního zasedání."
+  },
+  {
+    "id": 2,
+    "prompt": "Napiš krátký příběh, který se odehrál během rozhovoru pro rozhlas."
+  },
+  {
+    "id": 3,
+    "prompt": "Napiš krátký příběh, který se odehrál na běžeckém závodě."
+  },
+  {
+    "id": 4,
+    "prompt": "Napiš krátký příběh, který se odehrál na běžkařském závodu."
+  },
+  {
+    "id": 5,
+    "prompt": "Napiš krátký příběh, který se odehrál na charitativní akci."
+  },
+  {
+    "id": 6,
+    "prompt": "Napiš krátký příběh, který se odehrál na demonstraci."
+  },
+  {
+    "id": 7,
+    "prompt": "Napiš krátký příběh, který se odehrál na divadelní zkoušce."
+  },
+  {
+    "id": 8,
+    "prompt": "Napiš krátký příběh, který se odehrál na exkurzi do elektrárny."
+  },
+  {
+    "id": 9,
+    "prompt": "Napiš krátký příběh, který se odehrál na faře."
+  },
+  {
+    "id": 10,
+    "prompt": "Napiš krátký příběh, který se odehrál na farmářském trhu."
+  },
+  {
+    "id": 11,
+    "prompt": "Napiš krátký příběh, který se odehrál na festivalu dokumentárních filmů."
+  },
+  {
+    "id": 12,
+    "prompt": "Napiš krátký příběh, který se odehrál na festivalu lidové hudby."
+  },
+  {
+    "id": 13,
+    "prompt": "Napiš krátký příběh, který se odehrál na horolezecké expedici."
+  },
+  {
+    "id": 14,
+    "prompt": "Napiš krátký příběh, který se odehrál na kurzu první pomoci."
+  },
+  {
+    "id": 15,
+    "prompt": "Napiš krátký příběh, který se odehrál na lezecké stěně."
+  },
+  {
+    "id": 16,
+    "prompt": "Napiš krátký příběh, který se odehrál na maturitním plese."
+  },
+  {
+    "id": 17,
+    "prompt": "Napiš krátký příběh, který se odehrál na městském úřadě."
+  },
+  {
+    "id": 18,
+    "prompt": "Napiš krátký příběh, který se odehrál na obecním zastupitelstvu."
+  },
+  {
+    "id": 19,
+    "prompt": "Napiš krátký příběh, který se odehrál na oddělení kybernetické bezpečnosti."
+  },
+  {
+    "id": 20,
+    "prompt": "Napiš krátký příběh, který se odehrál na oddělení urgentního příjmu."
+  },
+  {
+    "id": 21,
+    "prompt": "Napiš krátký příběh, který se odehrál na operačním sále."
+  },
+  {
+    "id": 22,
+    "prompt": "Napiš krátký příběh, který se odehrál na pietní akci."
+  },
+  {
+    "id": 23,
+    "prompt": "Napiš krátký příběh, který se odehrál na policejní stanici."
+  },
+  {
+    "id": 24,
+    "prompt": "Napiš krátký příběh, který se odehrál na pouti v malém městě."
+  },
+  {
+    "id": 25,
+    "prompt": "Napiš krátký příběh, který se odehrál na promítání studentských filmů."
+  },
+  {
+    "id": 26,
+    "prompt": "Napiš krátký příběh, který se odehrál na schůzi vrcholového managementu."
+  },
+  {
+    "id": 27,
+    "prompt": "Napiš krátký příběh, který se odehrál na stavbě."
+  },
+  {
+    "id": 28,
+    "prompt": "Napiš krátký příběh, který se odehrál na svatbě."
+  },
+  {
+    "id": 29,
+    "prompt": "Napiš krátký příběh, který se odehrál na táboře pro mládež."
+  },
+  {
+    "id": 30,
+    "prompt": "Napiš krátký příběh, který se odehrál na tanečním tréninku."
+  },
+  {
+    "id": 31,
+    "prompt": "Napiš krátký příběh, který se odehrál na tréninku fotbalového týmu."
+  },
+  {
+    "id": 32,
+    "prompt": "Napiš krátký příběh, který se odehrál na tržnici v centru města."
+  },
+  {
+    "id": 33,
+    "prompt": "Napiš krátký příběh, který se odehrál na univerzitní přednášce."
+  },
+  {
+    "id": 34,
+    "prompt": "Napiš krátký příběh, který se odehrál na vědecké konferenci."
+  },
+  {
+    "id": 35,
+    "prompt": "Napiš krátký příběh, který se odehrál na vernisáži výstavy."
+  },
+  {
+    "id": 36,
+    "prompt": "Napiš krátký příběh, který se odehrál na výtvarném workshopu."
+  },
+  {
+    "id": 37,
+    "prompt": "Napiš krátký příběh, který se odehrál na základní škole."
+  },
+  {
+    "id": 38,
+    "prompt": "Napiš krátký příběh, který se odehrál na zasedání akademického senátu."
+  },
+  {
+    "id": 39,
+    "prompt": "Napiš krátký příběh, který se odehrál při experimentu s umělou inteligencí."
+  },
+  {
+    "id": 40,
+    "prompt": "Napiš krátký příběh, který se odehrál při natáčení dokumentu."
+  },
+  {
+    "id": 41,
+    "prompt": "Napiš krátký příběh, který se odehrál při přípravě koncertu."
+  },
+  {
+    "id": 42,
+    "prompt": "Napiš krátký příběh, který se odehrál při rekonstrukci starého domu."
+  },
+  {
+    "id": 43,
+    "prompt": "Napiš krátký příběh, který se odehrál při šachovém turnaji."
+  },
+  {
+    "id": 44,
+    "prompt": "Napiš krátký příběh, který se odehrál při slavnostním ceremoniálu."
+  },
+  {
+    "id": 45,
+    "prompt": "Napiš krátký příběh, který se odehrál při soudním přelíčení."
+  },
+  {
+    "id": 46,
+    "prompt": "Napiš krátký příběh, který se odehrál při veřejné debatě."
+  },
+  {
+    "id": 47,
+    "prompt": "Napiš krátký příběh, který se odehrál při výuce cizího jazyka."
+  },
+  {
+    "id": 48,
+    "prompt": "Napiš krátký příběh, který se odehrál u vodárenské věže."
+  },
+  {
+    "id": 49,
+    "prompt": "Napiš krátký příběh, který se odehrál v autoservisu."
+  },
+  {
+    "id": 50,
+    "prompt": "Napiš krátký příběh, který se odehrál v azylovém domě."
+  },
+  {
+    "id": 51,
+    "prompt": "Napiš krátký příběh, který se odehrál v bankovní pobočce."
+  },
+  {
+    "id": 52,
+    "prompt": "Napiš krátký příběh, který se odehrál v baru během karaoke večera."
+  },
+  {
+    "id": 53,
+    "prompt": "Napiš krátký příběh, který se odehrál v call centru."
+  },
+  {
+    "id": 54,
+    "prompt": "Napiš krátký příběh, který se odehrál v čekárně na úřadě."
+  },
+  {
+    "id": 55,
+    "prompt": "Napiš krátký příběh, který se odehrál v domácnosti vícegenerační rodiny."
+  },
+  {
+    "id": 56,
+    "prompt": "Napiš krátký příběh, který se odehrál v ekologickém centru."
+  },
+  {
+    "id": 57,
+    "prompt": "Napiš krátký příběh, který se odehrál v hasičské zbrojnici."
+  },
+  {
+    "id": 58,
+    "prompt": "Napiš krátký příběh, který se odehrál v hotelové recepci."
+  },
+  {
+    "id": 59,
+    "prompt": "Napiš krátký příběh, který se odehrál v hudebním klubu."
+  },
+  {
+    "id": 60,
+    "prompt": "Napiš krátký příběh, který se odehrál v jazykové škole."
+  },
+  {
+    "id": 61,
+    "prompt": "Napiš krátký příběh, který se odehrál v kadeřnictví."
+  },
+  {
+    "id": 62,
+    "prompt": "Napiš krátký příběh, který se odehrál v klášterní zahradě."
+  },
+  {
+    "id": 63,
+    "prompt": "Napiš krátký příběh, který se odehrál v knihovně."
+  },
+  {
+    "id": 64,
+    "prompt": "Napiš krátký příběh, který se odehrál v komunitní kuchyni."
+  },
+  {
+    "id": 65,
+    "prompt": "Napiš krátký příběh, který se odehrál v komunitním centru."
+  },
+  {
+    "id": 66,
+    "prompt": "Napiš krátký příběh, který se odehrál v kostele."
+  },
+  {
+    "id": 67,
+    "prompt": "Napiš krátký příběh, který se odehrál v kuchyni luxusní restaurace."
+  },
+  {
+    "id": 68,
+    "prompt": "Napiš krátký příběh, který se odehrál v kulturním domě."
+  },
+  {
+    "id": 69,
+    "prompt": "Napiš krátký příběh, který se odehrál v místním sportovním klubu."
+  },
+  {
+    "id": 70,
+    "prompt": "Napiš krátký příběh, který se odehrál v nápravném zařízení."
+  },
+  {
+    "id": 71,
+    "prompt": "Napiš krátký příběh, který se odehrál v nemocnici."
+  },
+  {
+    "id": 72,
+    "prompt": "Napiš krátký příběh, který se odehrál v observatoři."
+  },
+  {
+    "id": 73,
+    "prompt": "Napiš krátký příběh, který se odehrál ve skautském oddílu."
+  },
+  {
+    "id": 74,
+    "prompt": "Napiš krátký příběh, který se odehrál v ordinaci praktického lékaře."
+  },
+  {
+    "id": 75,
+    "prompt": "Napiš krátký příběh, který se odehrál v pěveckém sboru."
+  },
+  {
+    "id": 76,
+    "prompt": "Napiš krátký příběh, který se odehrál v realitní kanceláři."
+  },
+  {
+    "id": 77,
+    "prompt": "Napiš krátký příběh, který se odehrál v redakci deníku."
+  },
+  {
+    "id": 78,
+    "prompt": "Napiš krátký příběh, který se odehrál v soudní síni."
+  },
+  {
+    "id": 79,
+    "prompt": "Napiš krátký příběh, který se odehrál v technickém muzeu."
+  },
+  {
+    "id": 80,
+    "prompt": "Napiš krátký příběh, který se odehrál v televizní soutěži."
+  },
+  {
+    "id": 81,
+    "prompt": "Napiš krátký příběh, který se odehrál v týmu synchronizovaného plavání."
+  },
+  {
+    "id": 82,
+    "prompt": "Napiš krátký příběh, který se odehrál v učebně informatiky."
+  },
+  {
+    "id": 83,
+    "prompt": "Napiš krátký příběh, který se odehrál v učitelském sboru."
+  },
+  {
+    "id": 84,
+    "prompt": "Napiš krátký příběh, který se odehrál v útulku pro zvířata."
+  },
+  {
+    "id": 85,
+    "prompt": "Napiš krátký příběh, který se odehrál v zákulisí módní přehlídky."
+  },
+  {
+    "id": 86,
+    "prompt": "Napiš krátký příběh, který se odehrál ve filmovém studiu."
+  },
+  {
+    "id": 87,
+    "prompt": "Napiš krátký příběh, který se odehrál ve fitness centru."
+  },
+  {
+    "id": 88,
+    "prompt": "Napiš krátký příběh, který se odehrál ve školce."
+  },
+  {
+    "id": 89,
+    "prompt": "Napiš krátký příběh, který se odehrál ve školní jídelně."
+  },
+  {
+    "id": 90,
+    "prompt": "Napiš krátký příběh, který se odehrál ve stanu horské služby."
+  },
+  {
+    "id": 91,
+    "prompt": "Napiš krátký příběh, který se odehrál ve studentské koleji."
+  },
+  {
+    "id": 92,
+    "prompt": "Napiš krátký příběh, který se odehrál ve vlakovém kupé."
+  },
+  {
+    "id": 93,
+    "prompt": "Napiš krátký příběh, který se odehrál ve vlaku během ranní špičky."
+  },
+  {
+    "id": 94,
+    "prompt": "Napiš krátký příběh, který se odehrál ve vojenské jednotce."
+  },
+  {
+    "id": 95,
+    "prompt": "Napiš krátký příběh, který se odehrál ve volební místnosti."
+  },
+  {
+    "id": 96,
+    "prompt": "Napiš krátký příběh, který se odehrál ve volebním štábu."
+  },
+  {
+    "id": 97,
+    "prompt": "Napiš krátký příběh, který se odehrál ve výtahu."
+  },
+  {
+    "id": 98,
+    "prompt": "Napiš krátký příběh, který se odehrál ve vývojovém oddělení firmy."
+  },
+  {
+    "id": 99,
+    "prompt": "Napiš krátký příběh, který se odehrál ve výzkumné laboratoři."
+  }
+]
