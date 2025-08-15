@@ -84,8 +84,11 @@ If you use this code or data, please cite our paper:
 @inproceedings{derner2025gender,
   author    = {Derner, Erik and Batisti{\v{c}}, Kristina},
   title     = {Gender Representation Bias Analysis in LLM-Generated Czech and Slovenian Texts},
-  booktitle = {Proceedings of the 10th Workshop on Slavic Natural Language Processing 2025 (SlavicNLP 2025)},
-  pages     = {1--12},
-  year      = {2025}
+  booktitle = {Proceedings of the 10th Workshop on Slavic Natural Language Processing (Slavic NLP 2025)},
+  pages     = {124--135},
+  publisher = {Association for Computational Linguistics},
+  address   = {Vienna, Austria},
+  year      = {2025},
+  month     = {Jul}
 }
 ```
