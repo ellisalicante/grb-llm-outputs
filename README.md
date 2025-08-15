@@ -83,7 +83,7 @@ If you use this code or data, please cite our paper:
 ```bibtex
 @inproceedings{derner2025gender,
   author    = {Derner, Erik and Batisti{\v{c}}, Kristina},
-  title     = {Gender Representation Bias Analysis in LLM-Generated Czech and Slovenian Texts},
+  title     = {Gender Representation Bias Analysis in {LLM}-Generated {C}zech and {S}lovenian Texts},
   booktitle = {Proceedings of the 10th Workshop on Slavic Natural Language Processing (Slavic NLP 2025)},
   pages     = {124--135},
   publisher = {Association for Computational Linguistics},
